@@ -1,0 +1,23 @@
+.App {
+font-family: Arial, sans-serif;
+max-width: 600px;
+margin: 40px auto;
+padding: 20px;
+border: 1px solid #ddd;
+border-radius: 10px;
+text-align: center;
+}
+
+input[type="file"],
+input[type="text"] {
+margin: 10px 0;
+width: 100%;
+padding: 8px;
+}
+
+button {
+margin-top: 10px;
+padding: 10px 16px;
+font-size: 16px;
+cursor: pointer;
+}
